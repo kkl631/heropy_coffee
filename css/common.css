@@ -68,6 +68,20 @@ a {
   background-color: #fff;
 }
 
+.btn.btn--primary {
+  color: #fff;
+  background-color: #EA9926;
+  border: none;
+}
+
+.btn.btn--primary:hover {
+  background-color: cc8823;
+}
+
+.btn.block {
+  width: 100%;
+}
+
 .back-to-position {
   opacity: 0;
   transition-duration: 1s;
